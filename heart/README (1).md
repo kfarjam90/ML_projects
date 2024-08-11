@@ -111,5 +111,4 @@ You can find the dataset [here](heart.csv).
 - Open the `Heart Disease Prediction.ipynb` notebook in Jupyter.
 - Run all cells in the notebook.
 
-## Additional Resources
-For those interested in exploring this notebook in a Kaggle environment, you can access it [here](https://www.kaggle.com/code/farzadnekouei/heart-disease-prediction).
+
