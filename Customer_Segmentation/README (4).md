@@ -43,6 +43,5 @@ The dataset comprises various metrics related to online retail transactions. The
 4. **Execution**: Run all cells in the notebook to witness the results and insights.
 
 ## 🔗 Additional Resources
-- 🌐 **Kaggle Notebook**: If you're keen on a Kaggle environment, delve into the notebook [here](https://www.kaggle.com/code/farzadnekouei/customer-segmentation-recommendation-system).
 - 🌐 **Dataset Source**: Access the original dataset from the [UCI Machine Learning Repository](https://archive.ics.uci.edu/dataset/352/online+retail).
-- 🤝 **Connect on LinkedIn**: Have queries or looking for collaborations? Feel free to connect on [LinkedIn](https://linkedin.com/in/farzad-nekouei-7535aa53/).
+- 🤝 **Connect on LinkedIn**: Have queries or looking for collaborations? Feel free to connect on [LinkedIn](https://www.linkedin.com/in/karim-farjam-a6b72549/).
