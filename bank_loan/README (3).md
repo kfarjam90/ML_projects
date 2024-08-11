@@ -55,7 +55,6 @@ The dataset embodies both customer particulars and their response to the most re
 </table>
 </div>
 
-Access the dataset on Kaggle [here](https://www.kaggle.com/datasets/itsmesunil/bank-loan-modelling).
 
 ## 📁 File Descriptions
 - 📓 **`imbalanced-personal-bank-loan-classification.ipynb`**: Jupyter notebook elucidating the exploration, preprocessing, handling imbalanced data, modeling, and evaluation stages.
@@ -70,5 +69,4 @@ Access the dataset on Kaggle [here](https://www.kaggle.com/datasets/itsmesunil/b
 3. Run all cells in the notebook.
 
 ## 🔗 Additional Resources
-- **Kaggle Notebook**: Interested in exploring within a Kaggle environment? View the notebook [here](https://www.kaggle.com/code/farzadnekouei/imbalanced-personal-bank-loan-classification/notebook).
-- **LinkedIn**: [Farzad Nekouei's Profile](https://www.linkedin.com/in/farzad-nekouei-7535aa53/)
+- **LinkedIn**: [Karim Farjam's Profile](https://www.linkedin.com/in/karim-farjam-a6b72549/)
